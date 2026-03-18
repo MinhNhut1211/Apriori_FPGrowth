@@ -1,0 +1,10 @@
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\bin\Debug\FPGrowthApp.exe.config
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\bin\Debug\FPGrowthApp.exe
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\bin\Debug\FPGrowthApp.pdb
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthApp.csproj.AssemblyReference.cache
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthApp.Properties.Resources.resources
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthApp.csproj.GenerateResource.cache
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthApp.csproj.CoreCompileInputs.cache
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthApp.exe
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthApp.pdb
+D:\2026\KTDL\Apriori\FPGrowthApp\FPGrowthApp\obj\Debug\FPGrowthSmartApp.Form1.resources
